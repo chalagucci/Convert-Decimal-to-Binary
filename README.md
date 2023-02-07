@@ -1,12 +1,10 @@
 ## Description
 
-In this assignment you will convert a positive integer into a binary value by using a stack implemented with a singly linked list.
+In this program you will convert a positive integer into a binary value by using a stack implemented with a singly linked list.
 
 - [ ] 1. Ask the user to enter in the integer to be converted to binary.
     - **Assume all entered values are positive (greater than 0)**
 - [ ] 2. Convert decimal to binary using a stack with a singly linked list.
-
-**HINT: Use modulus, remember binary is base 2**
 
 ### Example Math
 
